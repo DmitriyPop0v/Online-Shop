@@ -8,10 +8,10 @@
 						<div class="col-md-3 col-xs-6">
 							<div class="footer">
 								<h3 class="footer-title">About Us</h3>
-								<p>This is my Small Database Management System mini project</p>
+								<p>This is out Small System. Made By Aaron, ImBubble, Skoryan</p>
 								<ul class="footer-links">
-									<li><a href="#"><i class="fa fa-map-marker"></i>Bangalore ,Kumbalagodu</a></li>
-									<li><a href="#"><i class="fa fa-phone"></i>+91-9535688928</a></li>
+									<li><a href="#"><i class="fa fa-map-marker"></i>Krasnodar, India</a></li>
+									<li><a href="#"><i class="fa fa-phone"></i>+7(918)1457821</a></li>
 									<li><a href="#"><i class="fa fa-envelope-o"></i>penoni4313@klblogs.com</a></li>
 								</ul>
 							</div>
