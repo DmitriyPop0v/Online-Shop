@@ -8,7 +8,7 @@
 						<div class="col-md-3 col-xs-6">
 							<div class="footer">
 								<h3 class="footer-title">About Us</h3>
-								<p>This is out Small System. Made By Aaron, ImBubble, Skoryan</p>
+								<p>This is our Small System. Made By Ruzanoff, Popoff, Skorik</p>
 								<ul class="footer-links">
 									<li><a href="#"><i class="fa fa-map-marker"></i>Krasnodar, India</a></li>
 									<li><a href="#"><i class="fa fa-phone"></i>+7(918)1457821</a></li>
